@@ -4,21 +4,28 @@
 }
 body{
     background-color: #3a5a40;
+    text-decoration: none;
 }
 
 #main ul li{
-
+   
     display: inline;
     color: black;
     padding: 9px;
+   
+}
+.mn{
+    text-decoration:none;
+    color: black;
 }
 nav{
-    font-family: Agent Orange;
+    font-family: UTM Brewers KT;
     text-align: center;
     background-color: #344e41;
     padding: 19px;
     display:block;
     list-style-type: none;
+
 
 }
 #ds1 li:hover{
