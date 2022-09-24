@@ -7,3 +7,6 @@
     list-style-type: none;
     display: flex;
 }
+nav{
+    display: flex;
+}
