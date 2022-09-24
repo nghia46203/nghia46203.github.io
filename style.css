@@ -1,15 +1,27 @@
 *{
-    margin: 0px;
     padding: 0px;
-}
-#id ul{
-    background-color: darkolivegreen;
-    list-style-type: none;
-    display: flex;
-}
-nav{
-    display: flex;
+    margin: 0px;
 }
 body{
-    background-color: darkslategray;
+    background-color: #3a5a40;
+}
+
+#main ul li{
+
+    display: inline;
+    color: black;
+    padding: 9px;
+}
+nav{
+    font-family: Agent Orange;
+    text-align: center;
+    background-color: #344e41;
+    padding: 19px;
+    display:block;
+    list-style-type: none;
+
+}
+#ds1 li:hover{
+    color: #a3b18a;
+    background-color: #3a5a40;
 }
