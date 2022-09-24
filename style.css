@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#id ul{
+    background-color: darkolivegreen;
+    list-style-type: none;
+    display: flex;
+}
